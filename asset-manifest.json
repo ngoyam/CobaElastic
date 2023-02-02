@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CobaElastic/static/css/main.fe5a78ce.css",
+    "main.js": "/CobaElastic/static/js/main.dda63e92.js",
+    "static/js/483.39a62021.chunk.js": "/CobaElastic/static/js/483.39a62021.chunk.js",
+    "static/js/787.8858995d.chunk.js": "/CobaElastic/static/js/787.8858995d.chunk.js",
+    "index.html": "/CobaElastic/index.html",
+    "main.fe5a78ce.css.map": "/CobaElastic/static/css/main.fe5a78ce.css.map",
+    "main.dda63e92.js.map": "/CobaElastic/static/js/main.dda63e92.js.map",
+    "483.39a62021.chunk.js.map": "/CobaElastic/static/js/483.39a62021.chunk.js.map",
+    "787.8858995d.chunk.js.map": "/CobaElastic/static/js/787.8858995d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe5a78ce.css",
+    "static/js/main.dda63e92.js"
+  ]
+}
